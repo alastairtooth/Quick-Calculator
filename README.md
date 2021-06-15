@@ -5,7 +5,7 @@ This app was built as part of 'iOS & Swift - The complete iOS App Development Bo
 
 # Required Skills
 * Advanced UI Layouts
-** Portrait/Landscape views
-** Dynamic Constraints
-** Vertical/Horizontal Stacks
+* Portrait/Landscape views
+* Dynamic Constraints
+* Vertical/Horizontal Stacks
 * Building Computational Models
